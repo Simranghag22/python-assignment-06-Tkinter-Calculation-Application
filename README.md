@@ -1,2 +1,2 @@
-# python-assignment-06-Tkinter-Calculation-Application
+# python-assignment-06-Tkinter-Calculator-Application
 A simple GUI-based Calculator built using Python and Tkinter. This project performs basic arithmetic operations including addition, subtraction, multiplication, and division. It demonstrates GUI development, event handling, lambda functions, and basic logic implementation, making it ideal for beginners learning Python and Tkinter fundamentals.
