@@ -37,7 +37,7 @@ This project demonstrates:
 2. Right-click on `PythonProject1.zip`
 3. Click **Extract All**
 4. Click **Extract**
-Now a folder named `PythonProject` will appear.
+Now a folder named `PythonProject1` will appear.
 
 ## Step 3: Open the Project
 
@@ -49,7 +49,7 @@ Now a folder named `PythonProject` will appear.
 
 1. Open PyCharm
 2. Click **Open**
-3. Select the extracted `PythonProject` folder
+3. Select the extracted `PythonProject1` folder
 4. Run `PythonProject1.py`
 
 ## Application Preview
