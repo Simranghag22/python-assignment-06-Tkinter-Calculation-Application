@@ -1,4 +1,4 @@
-# python-assignment-06-Tkinter-Calculator-Application
+# Python-Tkinter-Calculator-Application
 
 A clean and interactive **GUI Calculator** built using **Python** and the **Tkinter library**.
 
